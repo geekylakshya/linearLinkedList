@@ -308,7 +308,6 @@ int main(){
         else {
             cout << "Error: Invalid choice. Please enter a valid option from the menu." << endl;
         }
-
     }
     return 0;
 }
